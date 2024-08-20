@@ -8,6 +8,10 @@
 <br>
 <p align="left">Contact Me: <a href ="https://www.linkedin.com/in/josiah-tripp/">LinkedIn</a></p>
 <br>
+<hr>
+
+<br>
+<h2>A Bit More Info</h2>
 <div align="center">
 
 🛠️ I'm currently working on: **Snake** 🐍
@@ -19,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiahtripp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide=html" height="192px"  width="600px"/>
 
 </div>
-<hr/>
+<hr>
 
 <br>
 <h2>My Skillset Includes:</h2>
@@ -30,7 +34,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=blender,git,github,vscode,emacs,linux,ubuntu"/>
 </div>
-<hr/>
+<hr>
 
 <br>
 
