@@ -17,8 +17,10 @@
 
 🪴 I'm currently learning: .NET and Javascript
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=josiahtripp&show_icons=true&theme=nightowl" width="500"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiahtripp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide=html" width="500"/>
+
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=josiahtripp&show_icons=true&theme=nightowl" width="400"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiahtripp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide=html" width="400"/>
 
 </div>
 <hr>
