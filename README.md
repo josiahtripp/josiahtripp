@@ -5,14 +5,15 @@
 </h1>
 
 <h3 align = "center">A motivated Computer Science student at UT Martin</h3>
+<p align="right">Contact Me: <a href ="https://www.linkedin.com/in/josiah-tripp/">LinkedIn</a></p>
 
 <hr/>
 
 <h2>My Skillset Includes:</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c, cpp, cs, py, html"/>
-  <img src="https://skillicons.dev/icons?i=blender, git, github, vscode, emacs, linux, ubuntu"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html"/>
+  <img src="https://skillicons.dev/icons?i=blender,git,github,vscode,emacs,linux,ubuntu"/>
 </div>
 
 <hr/>
@@ -20,22 +21,12 @@
 
 🛠️ I'm currently working on: **Snake** 🐍
 
-🪴 I'm currently learning: <img src="https://skillicons.dev/icons?i=dotnet"/> & <img src="https://skillicons.dev/icons?i=js"/>
-
-  
+🪴 I'm currently learning: .NET and Javascript
 </div>
 
-<!--
-**josiahtripp/josiahtripp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📃 My Certifications:</h2>
 
-Here are some ideas to get you started:
+<div align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Comptia A+ <a href="https://www.credly.com/badges/40c48cd1-4179-4764-9f64-916190af429b/public_url">Show Credential</a>
+</div>
