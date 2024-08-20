@@ -7,11 +7,9 @@
 <h3 align = "center">A motivated Computer Science student at UT Martin</h3>
 <br>
 <p align="left">Contact Me: <a href ="https://www.linkedin.com/in/josiah-tripp/">LinkedIn</a></p>
-<br>
-<hr>
 
 <br>
-<h2>A Bit More Info</h2>
+<h2>🔎 A Bit More Info</h2>
 <div align="center">
 
 🛠️ I'm currently working on: **Snake** 🐍
@@ -26,7 +24,7 @@
 <hr>
 
 <br>
-<h2>My Skillset Includes:</h2>
+<h2>🔧 My Skillset Includes:</h2>
 <br>
 
 <div align="center">
