@@ -42,5 +42,5 @@
 
 <div align="left">
 
-  `Comptia` A+ <a href="https://www.credly.com/badges/40c48cd1-4179-4764-9f64-916190af429b/public_url">Show Credential</a>
+  `Comptia` A+ <i><a href="https://www.credly.com/badges/40c48cd1-4179-4764-9f64-916190af429b/public_url">Show Credential</a></i>
 </div>
