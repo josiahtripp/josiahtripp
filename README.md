@@ -10,14 +10,18 @@
 <br>
 <hr/>
 
+<br>
 <h2>My Skillset Includes:</h2>
+<br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html"/>
+  <br>
   <img src="https://skillicons.dev/icons?i=blender,git,github,vscode,emacs,linux,ubuntu"/>
 </div>
-
 <hr/>
+
+<br>
 <div align="center">
 
 🛠️ I'm currently working on: **Snake** 🐍
