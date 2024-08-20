@@ -34,6 +34,13 @@
   <br>
   <img src="https://skillicons.dev/icons?i=blender,git,github,vscode,emacs,linux,ubuntu"/>
 </div>
+<br>
+<h2>🖥️ Other Programs / Applications / APIs I've worked with:</h2>
+<br>
+<div align="center">
+  Raylib <img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_64x64.png"/>
+
+</div>
 <hr>
 
 <br>
