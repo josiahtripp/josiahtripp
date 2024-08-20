@@ -40,7 +40,7 @@
 <div align="center">
 <img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_48x48.png"/>
 <br>
-**Raylib**
+<b>Raylib</b>
 </div>
 <hr>
 
