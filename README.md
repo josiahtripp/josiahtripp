@@ -38,9 +38,9 @@
 <h2>🖥️ Other Programs / Applications / APIs I've worked with:</h2>
 <br>
 <div align="center">
-<img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_64x64.png"/>
+<img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_48x48.png"/>
+<br>
 Raylib
-
 </div>
 <hr>
 
