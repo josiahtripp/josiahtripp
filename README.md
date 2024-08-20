@@ -5,8 +5,9 @@
 </h1>
 
 <h3 align = "center">A motivated Computer Science student at UT Martin</h3>
-<p align="right">Contact Me: <a href ="https://www.linkedin.com/in/josiah-tripp/">LinkedIn</a></p>
-
+<br>
+<p align="left">Contact Me: <a href ="https://www.linkedin.com/in/josiah-tripp/">LinkedIn</a></p>
+<br>
 <hr/>
 
 <h2>My Skillset Includes:</h2>
@@ -26,7 +27,7 @@
 
 <h2>📃 My Certifications:</h2>
 
-<div align="right">
+<div align="left">
 
   Comptia A+ <a href="https://www.credly.com/badges/40c48cd1-4179-4764-9f64-916190af429b/public_url">Show Credential</a>
 </div>
