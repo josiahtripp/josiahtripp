@@ -10,6 +10,7 @@
 
 <br>
 <h2>🔎 A Bit More Info</h2>
+<br>
 <div align="center">
 
 🛠️ I'm currently working on: **Snake** 🐍
@@ -18,7 +19,7 @@
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=josiahtripp&show_icons=true&theme=nightowl"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiahtripp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide=html" height="192px"  width="600px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiahtripp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide=html"/>
 
 </div>
 <hr>
