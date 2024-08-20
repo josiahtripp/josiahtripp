@@ -8,6 +8,12 @@
 <br>
 <p align="left">Contact Me: <a href ="https://www.linkedin.com/in/josiah-tripp/">LinkedIn</a></p>
 <br>
+<div align="center">
+
+🛠️ I'm currently working on: **Snake** 🐍
+
+🪴 I'm currently learning: .NET and Javascript
+</div>
 <hr/>
 
 <br>
@@ -22,12 +28,6 @@
 <hr/>
 
 <br>
-<div align="center">
-
-🛠️ I'm currently working on: **Snake** 🐍
-
-🪴 I'm currently learning: .NET and Javascript
-</div>
 
 <h2>📃 My Certifications:</h2>
 
