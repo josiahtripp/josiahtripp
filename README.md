@@ -14,8 +14,10 @@
 
 🪴 I'm currently learning: .NET and Javascript
 
-<img width=390 src="https://github-readme-stats-josiahtripp.vercel.app/api?username=josiahtripp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-<img width=325 align="center" src="https://github-readme-stats-josiahtripp.vercel.app/api/top-langs/?username=josiahtripp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=josiahtripp&show_icons=true&theme=nightowl"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=josiahtripp&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl&hide=html" height="192px"  width="600px"/>
+
 </div>
 <hr/>
 
@@ -36,5 +38,5 @@
 
 <div align="left">
 
-  Comptia A+ <a href="https://www.credly.com/badges/40c48cd1-4179-4764-9f64-916190af429b/public_url">Show Credential</a>
+  `Comptia` A+ <a href="https://www.credly.com/badges/40c48cd1-4179-4764-9f64-916190af429b/public_url">Show Credential</a>
 </div>
